@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "1",
+  "released_at": "2026-10-01",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Aaron Chavarria ",
+    "description": "Procesamiento de tarjetas",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Nuevo diagrama genérico",
+        "diagramType": "Genérico",
+        "placeholder": "Descripción de nuevo diagrama genérico",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Cristofer",
+    "threatTop": 0
+  }
+}
